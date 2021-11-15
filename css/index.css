@@ -46,6 +46,11 @@ body {
   color: #fff;
   background-color: #428bca;
 }
+.page-header{
+	padding-bottom: 9px;
+	margin: 20px 0 20px;
+	border-bottom: 1px solid #eee;
+}
 .top1 { margin-bottom:10px; }
 .top2 { margin-bottom:5px; }
 .top3 {
